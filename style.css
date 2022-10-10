@@ -10,9 +10,7 @@
     border: 1px solid blue;
     height: 20px;
 }
-[class^=big-col]{
-    background-color: blue;
-    color:white;
-    border: 2px solid white;
-    height: 80px;
+
+.padding{
+    padding: 3rem;
 }
